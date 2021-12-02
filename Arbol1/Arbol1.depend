@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1593998882 source:d:\iset 2\programación 2\arbol1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Aebol1.h"
+
+1593999409 d:\iset 2\programación 2\arbol1\aebol1.h
+
